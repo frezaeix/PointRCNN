@@ -1,4 +1,7 @@
-# PointRCNN
+# My Own Readme 
+Explanation regarding flow of the code
+
+# Readme by the authors of PointRCNN
 
 ## PointRCNN: 3D Object Proposal Generation and Detection from Point Cloud
 ![teaser](https://github.com/sshaoshuai/PointRCNN/blob/master/doc/teaser.png)
